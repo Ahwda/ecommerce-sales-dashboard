@@ -9,7 +9,7 @@ It visualizes sales trends, product performance, regional performance, and categ
 
 The goal is to deliver clear insights that help in decision-making, performance monitoring, and business growth strategies.
 
-⸻
+
 
 ## Tools Used
  - Microsoft Excel: Data preparation and cleaning.
