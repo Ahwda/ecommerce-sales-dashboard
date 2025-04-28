@@ -2,7 +2,7 @@
 Professional sales dashboard for ecommerce sales by using Power BI
 📊 Ecommerce Sales Dashboard
 
-Overview
+## Overview
 
 This project presents a professional Sales Analysis Dashboard for an ecommerce store.
 It visualizes sales trends, product performance, regional performance, and category comparisons using Power BI.
