@@ -11,14 +11,14 @@ The goal is to deliver clear insights that help in decision-making, performance 
 
 ⸻
 
-Tools Used
+## Tools Used
  • Microsoft Excel: Data preparation and cleaning.
  • Power BI Desktop: Data modeling, visualization, and dashboard creation.
  • DAX Measures: Custom calculations for KPIs (Average Sales, Profit After Discount, Total Quantity Sold, Category Sales Percentage).
 
 ⸻
 
-Data Details
+## Data Details
 
 The dataset includes 50 sales transactions with the following fields:
  • Order ID
@@ -33,7 +33,7 @@ The dataset includes 50 sales transactions with the following fields:
 
 ⸻
 
-Dashboard Features
+## Dashboard Features
  • Total Sales, Average Sales, Profit After Discount, and Total Quantity Sold (Key Metrics).
  • Sales by Region (Pie Chart visualization).
  • Top Selling Products (Bar Chart).
@@ -42,7 +42,7 @@ Dashboard Features
 
 ⸻
 
-Key Insights
+## Key Insights
  • Identified top-performing products and categories.
  • Analyzed regional sales distribution.
  • Tracked sales trends across different periods.
@@ -50,7 +50,7 @@ Key Insights
 
 ⸻
 
-Author
+## Author
  • Ahad Al-sarihi
  www.linkedin.com/in/ahad-al-sarihi-225211326
 
